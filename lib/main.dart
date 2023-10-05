@@ -24,6 +24,12 @@ class MyHomePage extends StatefulWidget {
 }
 
 //Yorum
+//Yorum
+//Yorum
+//Yorum
+//Yorum
+//Yorum
+
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
